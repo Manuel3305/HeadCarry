@@ -1,0 +1,6 @@
+name: HeadCarry
+main: de.manuellxposure.headcarry.HeadCarryPlugin
+version: 1.0.0
+api-version: "1.21"
+author: Manuel
+description: Carry friendly mobs on your head. Sneak + right click to pick up. Right click to place.
